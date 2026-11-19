@@ -2,7 +2,7 @@
 
 > **📦 Backup notice**: This repository is a backup of the original repo https://github.com/NoHackClient/OpenExpo, which was taken down by DMCA.
 >
-> - Final anti-takedown mirror: https://git.yxz.st/yxzero/openexpo.git
+> - Final anti-takedown mirror: https://deobf.su/yxzero/openexpo
 > - Main repo: https://github.com/yxzeroo/openexpo.git
 
 <p align="center">

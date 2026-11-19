@@ -2,7 +2,7 @@
 
 > **📦 备份说明**：本仓库是原始仓库 https://github.com/NoHackClient/OpenExpo 的备份，原仓库已被 DMCA 下架。
 >
-> - 防下架最终地址：https://git.yxz.st/yxzero/openexpo.git
+> - 防下架最终地址：https://deobf.su/yxzero/openexpo
 > - 主仓库：https://github.com/yxzeroo/openexpo.git
 
 <p align="center">
